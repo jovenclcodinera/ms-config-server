@@ -1,0 +1,4 @@
+endpoint:
+  customer:
+   customers: http://prod-product-service/customer/customer-list
+
